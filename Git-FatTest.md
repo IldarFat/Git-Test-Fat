@@ -59,7 +59,7 @@
 
         git remote -v - просмотр списка удаленных репозиториев 
 
-        git push remote-name branch-name - передать изменения на удаленный репозиторий
+        git push -u remote-name branch-name - передать изменения на удаленный репозиторий
 
         git pull (git fetch; git merge) - сохраняет данные с удаленного репозитория на текущий.
 
