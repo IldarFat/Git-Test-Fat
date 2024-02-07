@@ -45,4 +45,6 @@
         
         
 
-        git checkout branch_name - переключится на ветку с именем branch_name текущего репозитория 
+        
+
+        git merge branch_name - перенести изменения сделанные в ветке с именем branch_name в текущую ветку
