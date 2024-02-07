@@ -43,4 +43,6 @@
 
         
         
-        git branch branch_name - переключится на ветку с именем branch_name текущего репозитория
+        
+
+        git checkout branch_name - переключится на ветку с именем branch_name текущего репозитория 
